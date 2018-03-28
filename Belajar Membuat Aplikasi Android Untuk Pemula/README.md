@@ -1,4 +1,4 @@
-# Belajar Membuat Aplikasi Android untuk Pemula
+# Belajar Membuat Aplikasi Android Untuk Pemula
 Merupakan salah satu dari Kelas Academy Dicoding
 
 ## Intro
