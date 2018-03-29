@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{890F350C-E3E5-AA26-700C-3F8E9EB5D1FB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Skrip/KendaliBola.cs">
+    <Files>
+      <File FileName="Assets/Skrip/KendaliPad.cs" Line="4" Column="2" />
+      <File FileName="Assets/Skrip/Berputar.cs" Line="5" Column="36" />
+      <File FileName="Assets/Skrip/KendaliBola.cs" Line="104" Column="48" />
+      <File FileName="Assets/Skrip/KendaliHalaman.cs" Line="15" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GaniPong2D PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

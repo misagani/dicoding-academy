@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 034fe5ba52f954c6b85fb53438f94aa5
+timeCreated: 1522290397
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 01 Digit2000
+  fontNames:
+  - 01 Digit2000
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
