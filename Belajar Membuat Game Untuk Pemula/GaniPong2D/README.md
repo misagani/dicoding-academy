@@ -1,10 +1,12 @@
 # GaniPong2D
-Merupakan hasil tugas dari kelas academy dicoding
-Belajar Membuat Game Untuk pemula
+Merupakan hasil tugas dari kelas academy dicoding.
+
+Belajar Membuat Game Untuk pemula.
 
 ## Intro
-Disini terdapat dua pemain, pemain biru dan pemain hijau
-tugasnya mencetak 3 angka tercepat!
+Disini terdapat dua pemain, pemain biru dan pemain hijau.
+
+Tugasnya mencetak 3 angka tercepat!
 
 ## IDE
 
