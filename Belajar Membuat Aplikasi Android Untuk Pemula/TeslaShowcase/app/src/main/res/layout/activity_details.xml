@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_detail_photo"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="230dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_detail_name"
+            style="@style/TextDetail.Name"
+            android:text="@string/name" />
+
+        <TextView
+            android:id="@+id/tv_detail_remarks"
+            style="@style/TextDetail.Name"
+            android:text="@string/remarks" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="330dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_detail_accel"
+            style="@style/TextDetail.Remarks"
+            android:text="@string/accel" />
+
+        <TextView
+            android:id="@+id/tv_detail_range"
+            style="@style/TextDetail.Remarks"
+            android:text="@string/range" />
+
+        <TextView
+            android:id="@+id/tv_detail_drive"
+            style="@style/TextDetail.Remarks"
+            android:text="@string/drive" />
+
+        <TextView
+            android:id="@+id/tv_detail_seating"
+            style="@style/TextDetail.Remarks"
+            android:text="@string/seating" />
+
+        <TextView
+            android:id="@+id/tv_detail_detail"
+            style="@style/TextDetail.Remarks"
+            android:layout_height="200dp"
+            android:text="@string/detailx" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tesla Showcase</string>
+    <string name="name">Name</string>
+    <string name="remarks">Remarks</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="imgs">Images</string>
+    <string name="accel">accel</string>
+    <string name="range">range</string>
+    <string name="drive">drive</string>
+    <string name="seating">seating</string>
+    <string name="detailx">detail</string>
+</resources>
